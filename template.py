@@ -26,7 +26,7 @@ list_of_files = [
     "Dockerfile",
     "requirements.txt",
     "set.py",
-    "research/trials.ipy"
+    "research/trials.ipynb"
 
 ]
 
