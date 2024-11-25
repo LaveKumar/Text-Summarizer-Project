@@ -1,3 +1,5 @@
+
+
 # End to end Text-Summarizer-Project
 
 
@@ -14,4 +16,40 @@
 
 
 
-https://github.com/entbappy/Branching-tutorial/raw/master/summarizer-data.zip
+# How to run?
+
+**STEPS:**
+
+Clone the repository
+
+[https://github.com/LaveKumar/Text-Summarizer-Project/]
+
+Create a conda environment after opening the repository.
+
+1. conda create -n summary python=3.8 -y
+
+2. conda activate summary
+
+STEP 02- 
+
+3. install the requirements
+
+4. pip install -r requirements.txt
+
+
+**Finally run the following command**
+
+5. python app.py
+
+
+Now,
+open up you local host and port
+
+
+Author: Lave Kumar
+
+Data Scientist
+
+Email: lavechauhan056@gmail.com
+
+
